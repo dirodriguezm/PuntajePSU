@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PuntajePSU</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión o registrar</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">Contraseña inválida</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="permission_rationale">"Se requieren permisos de contactos para autocompletado de emails."
+    </string>
+    <string name="title_activity_main">Bienvenido</string>
+    <string name="title_home">Mis ensayos</string>
+    <string name="title_tabla">Ver tabla</string>
+
+
+    <string name="escoger_ensayo">Escoja un ensayo</string>
+    <string name="numero_preguntas">Número de preguntas</string>
+    <string name="calcular_nota">Calcular nota</string>
+
+    <string-array name="ensayos">
+        <item>Ciencias</item>
+        <item>Historia</item>
+        <item>Lenguaje</item>
+        <item>Matemática</item>
+    </string-array>
+
+    <string-array name="filtro">
+        <item>Todos</item>
+        <item>Ciencias</item>
+        <item>Historia</item>
+        <item>Lenguaje</item>
+        <item>Matemática</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
